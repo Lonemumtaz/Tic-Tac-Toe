@@ -10,7 +10,7 @@ A simple **console-based Tic-Tac-Toe** game written in **C++**.
   - only allows positions **1–9**
   - prevents overwriting an already-taken position
 - Automatically detects:
-  - win (rows / columns / diagonals)
+  - win (rows / columns / diagonals).
   - tie (when the board is full)
 
 ## Files
